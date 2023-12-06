@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for technology and a desire to  
 
 ## About Me
 
-- 🔭 I’m currently working on Multiplayer Card game using react for the frontend and .net core api for the backend.
+- 🔭 I’m currently working in Multiple open source projects.
 - 🌱 I’m continuously learning and exploring new technologies.
 - 💡 I enjoy working on both front-end and back-end development.
 - ⏳ In my free time, I'm passionate about learning new technologies, exploring AI, and gaining insights into the stock market and the economy.
@@ -14,9 +14,9 @@ I'm a passionate software developer with a love for technology and a desire to  
 Here are some of the technologies and tools I work with:
 
 - 💻 Programming Languages: C# |  JavaScript | TypeScript
-- 🌐 Back-End: ASP.NET Core | .NET | Node.js | MVC Architecture | Entity Framework.  
-- 🌐 Front-End: React | HTML | CSS | Bootstrap | UWP |XAML 
-- 💡 Database: SQL (including schema writing and advanced queries).          
+- 🌐 Back-End: ASP.NET Core | .NET | Node.js | Next.js | MVC Architecture | Entity Framework.  
+- 🌐 Front-End: React | HTML | CSS | Bootstrap | UWP | XAML 
+- 💡 Database: SQL | MongoDB        
 
 ## Projects
 
